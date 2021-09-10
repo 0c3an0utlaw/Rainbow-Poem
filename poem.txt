@@ -13,5 +13,15 @@ And the unicorn.
 
 
 
+<<<<<<< HEAD
 "No entrance for unicorns" a sign said on the building.
 "Bloody racists" the unicorn mumbled
+=======
+
+
+
+
+
+A ponyclub was founded.
+"Life isn't a ponyclub" was it's name
+>>>>>>> 0e22c3d (reorder)
