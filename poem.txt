@@ -13,5 +13,7 @@ And the unicorn.
 And the Pony
 
 "Why o why isn't this a git repo on my harddrive?" the pony asked
-A ponyclub was founded.L
+"The subfolder is one" a voice was thundering throug the street.
+
+A ponyclub was founded.
 "Life isn't a ponyclub" was it's name
