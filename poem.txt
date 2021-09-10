@@ -1,27 +1,27 @@
-The Rainbow an the Unicorn
+The Rainbow, the Unicorn and the Pony
 
 Purple
 Pink
 Orange
 Blue
 Green
+Indigo
 Unicorn
 Yellow
 Red
 These are the colors of the rainbow.
+
 And the unicorn.
+And the Pony
 
-
-
-<<<<<<< HEAD
-"No entrance for unicorns" a sign said on the building.
-"Bloody racists" the unicorn mumbled
-=======
-
-
-
-
+"Why o why isn't this a git repo on my harddrive?" the pony asked
+"The subfolder is one" a voice was thundering throug the street.
+The giant appears in a cloud of his own exudation
+"Where are my flamingos" he askes his wife
+"I have to pee"
 
 A ponyclub was founded.
 "Life isn't a ponyclub" was it's name
->>>>>>> 0e22c3d (reorder)
+
+"No entrance for unicorns" a sign said on the building.
+"Bloody racists" the unicorn mumbled
