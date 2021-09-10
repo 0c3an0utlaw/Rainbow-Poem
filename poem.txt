@@ -1,10 +1,12 @@
-The Rainbow
+The Rainbow, the Unicorn and the Pony
 
 Purple
 Pink
 Orange
 Blue
 Green
+Indigo
+Unicorn
 Yellow
 Red
 These are the colors of the rainbow.
@@ -12,3 +14,5 @@ These are the colors of the rainbow.
 The giant appears in a cloud of his own exudation
 "Where are my flamingos" he askes his wife
 "I have to pee"
+And the unicorn.
+And of course the pony
