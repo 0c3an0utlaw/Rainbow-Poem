@@ -11,3 +11,5 @@ Red
 These are the colors of the rainbow.
 And the unicorn.
 And the Pony
+
+"Why o why isn't this a git repo on my harddrive?" the pony asked
